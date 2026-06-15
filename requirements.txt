@@ -1,0 +1,8 @@
+# Mandatory dependencies: none
+
+# Recommended if available in corporate machine:
+scikit-learn>=1.4
+numpy>=1.26
+
+# Optional:
+tiktoken
