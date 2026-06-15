@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SkillTokenX v2: Offline Patent-Oriented Skill / Instruction Token Optimizer
 
 SkillTokenX is an offline, enterprise-machine-friendly optimizer for `SKILL.md` and `INSTRUCTION.md` files used in code-generation systems.
@@ -117,3 +118,7 @@ patent/
 ```bash
 python tests_smoke.py
 ```
+=======
+# Token_Optimization_SkillTokenX_Sourav
+Offline Code-Aware Skill and Instruction Token Optimization System Using Hybrid Salience, Structural Preservation, and Redundancy-Constrained Compression
+>>>>>>> c8f5523511bb040c624d5d1d8df1f524342f89b8
